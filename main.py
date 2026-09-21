@@ -1,0 +1,5 @@
+x = 6
+if x > 5:
+    print("hello")
+    elif x > 5
+    print("Goodybye")
